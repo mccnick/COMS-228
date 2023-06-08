@@ -35,7 +35,6 @@ public class CompareSorters
 		System.out.println("Performances of Four Sorting Algorithms in Point Sorting");
 		System.out.println();
 		System.out.println("keys:  1 (random integers)  2 (file input)  3 (exit)");
-
 		Scanner scan = new Scanner(System.in); // create a scanner to read user input
 		int whichTrial = 0; // initialize the trial number to 0
 		while (whichTrial++ != -1)
