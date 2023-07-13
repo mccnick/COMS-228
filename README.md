@@ -63,6 +63,3 @@ This assignment involves implementing a program that can reconstruct a message a
 </p>
 
 
-![monalisaarch gif](https://github.com/mccnick/COMS-228/assets/91184284/1e0f7313-f083-456f-b9b0-3cb19691fcb2)
-
-
