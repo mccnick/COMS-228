@@ -11,7 +11,7 @@ HW1) Score: 90/100 - Sorting algorithms.
 HW2) Score 100/100 - Linked List traversal, 800+ lines of code. 
 
 HW3) Score 111/100 - Tree traversal to read archived file message.
-
+--------------------
 Total Score: 301/300.
 
 ___________
