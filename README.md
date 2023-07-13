@@ -3,7 +3,7 @@
 
 <h2><p align="center">Get ready to scroll.</p> </h2>
 
-In this repository are three large programming assignments in my Data Structures and Algorithms course, using Java. I earned an A in the class.
+In this repository are three large programming assignments in my Data Structures and Algorithms course, using Java.
 
 ___________
 
