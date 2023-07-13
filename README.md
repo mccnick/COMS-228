@@ -11,9 +11,9 @@ ___________
 
 | **Assignment** | **PDF** | **Description** |**Score** 
 | :-------------: | :-------------: | :-------------: | :-------------: |
-| HW1 | x | Comparing Four Sorting Algorithms | 90/100 |
-| HW2 | x | Linked List (800+ lines of code) | 100/100 |
-| HW3 | x | Archived File Tree Traversal | 111/100 |
+| HW1 - Java Code | x | Comparing Four Sorting Algorithms | 90/100 |
+| HW2 - Java Code | x | Linked List (800+ lines of code) | 100/100 |
+| HW3 - Java Code | x | Archived File Tree Traversal | 111/100 |
 |  | | Total Score | 301/300 |
 
 ___________
