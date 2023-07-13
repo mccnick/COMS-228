@@ -4,6 +4,8 @@ Get ready to scroll. Visuals and descriptions of each assignment are further bel
 
 In this repository are three large programming assignments in my Data Structures and Algorithms course, using Java. I earned an A in the class.
 
+___________
+
 Score: 90/100 - Assignment 1) Sorting algorithms.
 
 Score 100/100 - Assignment 2) Linked List traversal, 800+ lines of code. 
