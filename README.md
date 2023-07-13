@@ -24,7 +24,8 @@ ___________
 <p align="center"></p>
 <p align="left"></p>
 <p align="left">
-This program calls four sorting algorithms (Selection, Insertion, Merge and Quick) firstly for 2500 randomly generated points between (-50,50), reads a file within the main project and creates points from the file, sorts & prints those points. The program provides the runtime in nanoseconds for each algorithm. </p>
+This assignment involves creating a sorting program that reads 2D integer points, and calculates the median coordinate point by applying different sorting algorithms: selection sort, insertion sort, merge sort, and quicksort. Points are read either randomly or from a file, and the program implements specific Point and Sorter classes with particular methods and constructors for organizing and storing the points. The program must also compare the execution times of the different sorting algorithms to provide comparative performance data. A final element of the project is the generation of random points within a specific range for testing purposes.
+</p>
 
 
 ![ezgif com-video-to-gif-4](https://github.com/mccnick/COMS-228/assets/91184284/3ef76668-03c0-4715-ab7e-664b561c23fc)
