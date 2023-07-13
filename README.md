@@ -1,7 +1,7 @@
 # COMS-228
 
 
-<h3><p align="center">Get ready to scroll.</p> </h3>
+<h2><p align="center">Get ready to scroll.</p> </h2>
 <h3><p align="center">Visuals and descriptions of each assignment are further below.</p> </h3>
 
 
