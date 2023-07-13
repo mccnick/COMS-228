@@ -16,7 +16,7 @@ ___________
 |  | | <i>Total Homework Score:</i> | 301/300 |
 |  | | <b><i>Final Course Grade:</i></b> | <b>A</b> |
 
-<img width="717" alt="image" src="https://github.com/mccnick/COMS-228/assets/91184284/2a1fa919-efd8-4371-b9b9-99e5d47251d2">
+<img width="755" alt="image" src="https://github.com/mccnick/COMS-228/assets/91184284/2a1fa919-efd8-4371-b9b9-99e5d47251d2">
 
 ___________
 
