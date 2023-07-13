@@ -2,8 +2,6 @@
 
 
 <h2><p align="center">Get ready to scroll.</p> </h2>
-<h3><p align="center">Visuals and descriptions of each assignment are further below.</p> </h3>
-
 
 In this repository are three large programming assignments in my Data Structures and Algorithms course, using Java. I earned an A in the class.
 
@@ -18,7 +16,7 @@ ___________
 
 ___________
 
-<h2><p align="center"> VISUALS </p> </h2>
+<h2><p align="center"> VISUALS & DESCRIPTIONS </p> </h2>
 
 <h4>Homework 1. </h4>
 <p align="center"></p>
