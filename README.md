@@ -6,13 +6,13 @@ In this repository are three large programming assignments in my Data Structures
 
 ___________
 
-Score: 90/100 - Assignment 1) Sorting algorithms.
+Assignment 1) Score: 90/100 - Sorting algorithms.
 
-Score 100/100 - Assignment 2) Linked List traversal, 800+ lines of code. 
+Assignment 2) Score 100/100 - Linked List traversal, 800+ lines of code. 
 
-Score 111/100 - Assignment 3) Tree traversal to read archived file message.
+Assignment 3) Score 111/100 - Tree traversal to read archived file message.
 
-Total: 301/300.
+Total Score: 301/300.
 
 ___________
 
