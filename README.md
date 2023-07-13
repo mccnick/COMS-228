@@ -11,10 +11,12 @@ ___________
 
 | **Assignment** | **PDF** | **Description** |**Score** 
 | :-------------: | :-------------: | :-------------: | :-------------: |
-| HW1 - Java Code | <a href="https://github.com/mccnick/COMS-228/files/12035587/HW1Su2023.2.pdf">HW1 PDF</a> | Comparing Four Sorting Algorithms | 90/100 |
-| HW2 - Java Code | <a href="https://github.com/mccnick/COMS-228/files/12035588/HW2Su2023.pdf">HW2 PDF</a> | Linked List (800+ lines of code) | 100/100 |
-| HW3 - Java Code | <a href="https://github.com/mccnick/COMS-228/files/12035589/HW3Su2023.1.pdf">HW3 PDF</a> | Archived File Tree Traversal | 111/100 |
+| HW1 - <a href="https://github.com/mccnick/COMS-228/tree/main/src/edu/iastate/cs228/hw1">*Java code*</a> | <a href="https://github.com/mccnick/COMS-228/files/12035587/HW1Su2023.2.pdf">HW1 PDF</a> | Comparing Four Sorting Algorithms | 90/100 |
+| HW2 - <a href="https://github.com/mccnick/COMS-228/blob/main/src/edu/iastate/cs228/hw2/StoutList.java">*Java code*</a> | <a href="https://github.com/mccnick/COMS-228/files/12035588/HW2Su2023.pdf">HW2 PDF</a> | Linked List (800+ lines of code) | 100/100 |
+| HW3 - <a href="https://github.com/mccnick/COMS-228/blob/main/src/edu/iastate/cs228/hw3/MsgTree.java">*Java code*</a> | <a href="https://github.com/mccnick/COMS-228/files/12035589/HW3Su2023.1.pdf">HW3 PDF</a> | Archived File Tree Traversal | 111/100 |
 |  | | Total Score | 301/300 |
+
+
 
 
 
