@@ -32,13 +32,15 @@ This assignment involves creating a sorting program that reads 2D integer points
 ![ezgif com-video-to-gif-4](https://github.com/mccnick/COMS-228/assets/91184284/3ef76668-03c0-4715-ab7e-664b561c23fc)
 
 
+
+
 ___________
 
 <h4>Homework 2. </h4>
 <p align="left">
 This assignment involves creating a special doubly-linked list called <a href="https://github.com/mccnick/COMS-228/blob/main/src/edu/iastate/cs228/hw2/StoutList.java">StoutList</a>, which extends the AbstractSequentialList, where each node can store up to a certain number of data elements (M). The task includes developing two iterator inner classes, StoutIterator (that implements Iterator<E>) and StoutListIterator (implementing ListIterator<E>), and also overriding specific methods from AbstractList. The implementation needs to follow specific rules for adding and removing elements, considering each logical index within the list as a combination of node and offset within the node's array. Lastly, the assignment emphasizes on effective debugging and understanding of list and listIterator interfaces.
 
-The image below is a screenshot of StoutListTest (the provided JUnit tests) to confirm all tests passed as necessary.
+The image below is a screenshot of <a href="https://github.com/mccnick/COMS-228/blob/main/src/edu/iastate/cs228/hw2/StoutListTest.java">StoutListTest</a> (the provided JUnit tests) to confirm all tests passed as necessary.
 </p>
 
 ![image](https://github.com/mccnick/COMS-228/assets/91184284/653bab2b-a4c1-4ae0-a01e-e314dc6728b4)
