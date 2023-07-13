@@ -10,7 +10,7 @@ ___________
 
 | **Assignment** | **Java Code** | **Quick Description** |**Score** 
 | :-------------: | :-------------: | :-------------: | :-------------: |
-| <a href="https://github.com/mccnick/COMS-228/blob/main/HW1.pdf">HW1 PDF</a> | <a href="https://github.com/mccnick/COMS-228/tree/main/src/edu/iastate/cs228/hw1">*HW1 code*</a> | Implementing, comparing sorting algorithms, 2D points | 90/100 |
+| <a href="https://github.com/mccnick/COMS-228/blob/main/HW1.pdf">HW1 PDF</a> | <a href="https://github.com/mccnick/COMS-228/tree/main/src/edu/iastate/cs228/hw1">*HW1 code*</a> | Implement & compare multiple sorting algorithms, 2D points | 90/100 |
 | <a href="https://github.com/mccnick/COMS-228/blob/main/HW2.pdf">HW2 PDF</a> | <a href="https://github.com/mccnick/COMS-228/blob/main/src/edu/iastate/cs228/hw2/StoutList.java">*HW2 code*</a> | Doubly-Linked List, Nodes, Iterators (800+ lines code) | 100/100 |
 | <a href="https://github.com/mccnick/COMS-228/blob/main/HW3.pdf">HW3 PDF</a> | <a href="https://github.com/mccnick/COMS-228/blob/main/src/edu/iastate/cs228/hw3/MsgTree.java">*HW3 code*</a> | Binary-tree, decoding compressed message, statistics | 111/100 |
 |  | | <i>Total Homework Score:</i> | 301/300 |
