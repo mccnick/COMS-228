@@ -62,3 +62,7 @@ ___________
 This assignment involves implementing a program that can reconstruct a message archived with a binary-tree-based encoding scheme. The program reads the encoding scheme from a file, builds the corresponding binary tree, and then decodes the compressed message bit by bit. The program should print out the characters with their binary codes and the decoded message to the console. Students have the opportunity to earn extra credit by printing message-specific statistics or creating an iterative solution for building the tree.
 </p>
 
+
+![monalisaarch gif](https://github.com/mccnick/COMS-228/assets/91184284/1e0f7313-f083-456f-b9b0-3cb19691fcb2)
+
+
