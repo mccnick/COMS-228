@@ -18,7 +18,7 @@ ___________
 
 ___________
 
-<h2><p align="center"> VISUALS & DESCRIPTIONS </p> </h2>
+<h2><p align="center"> Visuals & Descriptions </p> </h2>
 
 <h4>Homework 1. </h4>
 
