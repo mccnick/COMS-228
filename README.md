@@ -9,9 +9,9 @@ In this repository are three large programming assignments in my Data Structures
 
 ___________
 
-| **Assignment** | **PDF** | **Quick Description** |**Score** 
+| **Assignment** | **Java Code** | **Quick Description** |**Score** 
 | :-------------: | :-------------: | :-------------: | :-------------: |
-| HW1 - <a href="https://github.com/mccnick/COMS-228/tree/main/src/edu/iastate/cs228/hw1">*Java code*</a> | <a href="https://github.com/mccnick/COMS-228/files/12035587/HW1Su2023.2.pdf">HW1 PDF</a> | Implementing and comparing four sorting algorithms for 2D integer points | 90/100 |
+| <a href="https://github.com/mccnick/COMS-228/files/12035587/HW1Su2023.2.pdf">HW1 PDF</a> | <a href="https://github.com/mccnick/COMS-228/tree/main/src/edu/iastate/cs228/hw1">*Java code*</a> | Implementing and comparing four sorting algorithms for 2D integer points | 90/100 |
 | HW2 - <a href="https://github.com/mccnick/COMS-228/blob/main/src/edu/iastate/cs228/hw2/StoutList.java">*Java code*</a> | <a href="https://github.com/mccnick/COMS-228/files/12035588/HW2Su2023.pdf">HW2 PDF</a> | Doubly-Linked List, Multi-Element Nodes, Iterators (800+ lines of code) | 100/100 |
 | HW3 - <a href="https://github.com/mccnick/COMS-228/blob/main/src/edu/iastate/cs228/hw3/MsgTree.java">*Java code*</a> | <a href="https://github.com/mccnick/COMS-228/files/12035589/HW3Su2023.1.pdf">HW3 PDF</a> | Binary-tree construction, decoding archived compressed message, statistics | 111/100 |
 |  | | <b><i>Total Homework Score:</i></b> | 301/300 |
