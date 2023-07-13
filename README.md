@@ -2,7 +2,7 @@
 
 Get ready to scroll.
 
-In this repository are three large programming assignments focused on Data Structures and Algorithms.
+In this repository are three large programming assignments focused on Data Structures and Algorithms, using Java.
 
 Assignment 1) Sorting algorithms. Score: 90/100.
 
