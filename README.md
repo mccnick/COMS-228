@@ -59,7 +59,9 @@ ___________
 
 <h4>Homework 3. </h4>
 <p align="left">
-This assignment involves implementing a program that can reconstruct a message archived with a binary-tree-based encoding scheme. The program reads the encoding scheme from a file, builds the corresponding binary tree, and then decodes the compressed message bit by bit. The program should print out the characters with their binary codes and the decoded message to the console. Students have the opportunity to earn extra credit by printing message-specific statistics or creating an iterative solution for building the tree.
+This assignment involves implementing a program that can reconstruct a message archived with a binary-tree-based encoding scheme. The program reads the encoding scheme from a file, builds the corresponding binary tree, and then decodes the compressed message bit by bit. The program should print out the characters with their binary codes and the decoded message to the console. Students have the opportunity to earn extra credit by printing message-specific statistics or creating an iterative solution for building the tree. Below, the <a href="https://github.com/mccnick/COMS-228/blob/main/src/edu/iastate/cs228/hw3/MsgTree.java">MsgTree</a> class is decoding a compressed monalisa.arch file, and by decoding it correctly, displays a Mona Lisa figure.
 </p>
 
+
+![monalisaarch2 gif](https://github.com/mccnick/COMS-228/assets/91184284/55e963c7-c444-4d03-bd7f-5c52fb59885c)
 
