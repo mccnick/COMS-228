@@ -4,9 +4,9 @@ Get ready to scroll.
 
 In this repository are three large programming assignments focused on Data Structures and Algorithms.
 
-Assignment 1) Sorting algorithms. Immediately below is an example. There are four sorting algorithms and a main file that calls them all when reading a specific file to sort. YOu can also have it "randomly" sort any number of points, being realistic, otherwise it will throw a memory exception.
+Assignment 1) Sorting algorithms. Score: 90/100.
 
-Assignment 2) This was the hardest assignment. Essentially we had to build a Linked List 
+Assignment 2) Linked List traversal. Score 100/100.
 
 Assignment 3) 
 
