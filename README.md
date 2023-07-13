@@ -6,9 +6,11 @@ In this repository are three large programming assignments focused on Data Struc
 
 Assignment 1) Sorting algorithms. Score: 90/100.
 
-Assignment 2) Linked List traversal. Score 100/100.
+Assignment 2) Linked List traversal, 800+ lines of code. Score 100/100.
 
-Assignment 3) 
+Assignment 3) Tree traversal to read archived file message. Score 111/100.
+
+Total: 301/300.
 
 ___________
 
