@@ -20,8 +20,7 @@ ___________
 <h2><p align="center"> VISUALS & DESCRIPTIONS </p> </h2>
 
 <h4>Homework 1. </h4>
-<p align="center"></p>
-<p align="left"></p>
+
 <p align="left">
 This assignment involves creating a sorting program that reads 2D integer points, and calculates the median coordinate point by applying different sorting algorithms: selection sort, insertion sort, merge sort, and quicksort. Points are read either randomly or from a file, and the program implements specific Point and Sorter classes with particular methods and constructors for organizing and storing the points. The program must also compare the execution times of the different sorting algorithms to provide comparative performance data. A final element of the project is the generation of random points within a specific range for testing purposes.
 </p>
@@ -33,9 +32,11 @@ This assignment involves creating a sorting program that reads 2D integer points
 ___________
 
 <h4>Homework 2. </h4>
-<p align="left">This assignment involves creating a special doubly-linked list called StoutList, which extends the AbstractSequentialList, where each node can store up to a certain number of data elements (M). The task includes developing two iterator inner classes, StoutIterator (that implements Iterator<E>) and StoutListIterator (implementing ListIterator<E>), and also overriding specific methods from AbstractList. The implementation needs to follow specific rules for adding and removing elements, considering each logical index within the list as a combination of node and offset within the node's array. Lastly, the assignment emphasizes on effective debugging and understanding of list and listIterator interfaces.
+<p align="left">
+This assignment involves creating a special doubly-linked list called StoutList, which extends the AbstractSequentialList, where each node can store up to a certain number of data elements (M). The task includes developing two iterator inner classes, StoutIterator (that implements Iterator<E>) and StoutListIterator (implementing ListIterator<E>), and also overriding specific methods from AbstractList. The implementation needs to follow specific rules for adding and removing elements, considering each logical index within the list as a combination of node and offset within the node's array. Lastly, the assignment emphasizes on effective debugging and understanding of list and listIterator interfaces.
 
-The image below is a screenshot of StoutListTest (the provided JUnit tests) to confirm all tests passed as necessary. </p>
+The image below is a screenshot of StoutListTest (the provided JUnit tests) to confirm all tests passed as necessary.
+</p>
 
 ![image](https://github.com/mccnick/COMS-228/assets/91184284/653bab2b-a4c1-4ae0-a01e-e314dc6728b4)
 
@@ -43,5 +44,8 @@ The image below is a screenshot of StoutListTest (the provided JUnit tests) to c
 ___________
 
 
-<h4>Homework 3. </h4> Summary
+<h4>Homework 3. </h4>
+<p align="left">
+In this assignment, students are tasked to implement a program that can reconstruct a message archived with a binary-tree-based encoding scheme. The program reads the encoding scheme from a file, builds the corresponding binary tree, and then decodes the compressed message bit by bit. The program should print out the characters with their binary codes and the decoded message to the console. Students have the opportunity to earn extra credit by printing message-specific statistics or creating an iterative solution for building the tree.
+</p>
 
