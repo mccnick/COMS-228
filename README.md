@@ -4,11 +4,11 @@ Get ready to scroll.
 
 In this repository are three large programming assignments in my Data Structures and Algorithms course, using Java. I earned an A in the class.
 
-Assignment 1) Sorting algorithms. Score: 90/100.
+Score: 90/100 - Assignment 1) Sorting algorithms.
 
-Assignment 2) Linked List traversal, 800+ lines of code. Score 100/100.
+Score 100/100 - Assignment 2) Linked List traversal, 800+ lines of code. 
 
-Assignment 3) Tree traversal to read archived file message. Score 111/100.
+Score 111/100 - Assignment 3) Tree traversal to read archived file message.
 
 Total: 301/300.
 
