@@ -25,17 +25,17 @@ ___________
 <h4>Homework 1. </h4>
 
 <p align="left">
-This assignment involves creating a sorting program that reads 2D integer points, and calculates the median coordinate <a href="https://github.com/mccnick/COMS-228/blob/main/src/edu/iastate/cs228/hw1/Point.java">point</a> by applying different sorting algorithms: selection sort, insertion sort, merge sort, and quicksort. Points are read either randomly or from a file, and the program implements specific Point and Sorter classes with particular methods and constructors for organizing and storing the points. The program must also compare the execution times of the different sorting algorithms to provide comparative performance data. A final element of the project is the generation of random points within a specific range for testing purposes.
+This assignment involves creating a sorting program that reads 2D integer points, and calculates the median coordinate <a href="https://github.com/mccnick/COMS-228/blob/main/src/edu/iastate/cs228/hw1/Point.java">point</a> by applying different sorting algorithms: <a href="https://github.com/mccnick/COMS-228/blob/main/src/edu/iastate/cs228/hw1/SelectionSorter.java">selection sort</a>, <a href="https://github.com/mccnick/COMS-228/blob/main/src/edu/iastate/cs228/hw1/InsertionSorter.java">insertion sort</a>, <a href="https://github.com/mccnick/COMS-228/blob/main/src/edu/iastate/cs228/hw1/MergeSorter.java">merge sort</a>, and <a href="https://github.com/mccnick/COMS-228/blob/main/src/edu/iastate/cs228/hw1/QuickSorter.java">quick sort</a>. Points are read either randomly or from a file, and the program implements specific Point and Sorter classes with particular methods and constructors for organizing and storing the points. The program must also compare the execution times of the different sorting algorithms to provide comparative performance data. A final element of the project is the generation of random points within a specific range for testing purposes.
 </p>
 
 
 ![ezgif com-video-to-gif-4](https://github.com/mccnick/COMS-228/assets/91184284/3ef76668-03c0-4715-ab7e-664b561c23fc)
 
 
+https://github.com/mccnick/COMS-228/blob/main/src/edu/iastate/cs228/hw1/MergeSorter.java
 
 
-<a href=""></a>
-<a href=""></a>
+
 <a href=""></a>
 <a href=""></a>
 <a href=""></a>
