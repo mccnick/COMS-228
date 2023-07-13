@@ -3,7 +3,7 @@
 
 <h2><p align="center">Get ready to scroll.</p> </h2>
 
-Data Structures and Algorithms course, using Java. I was required to implement three large projects.
+<p align="center">Data Structures and Algorithms course, using Java. I was required to implement three large projects.</p>
 
 ___________
 
