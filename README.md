@@ -16,19 +16,23 @@ ___________
 | <a href="https://github.com/mccnick/COMS-228/blob/main/HW3.pdf">HW3 PDF</a> | <a href="https://github.com/mccnick/COMS-228/blob/main/src/edu/iastate/cs228/hw3/MsgTree.java">*HW3 code*</a> | Binary-tree, decoding compressed message, statistics | 111/100 |
 |  | | <b><i>Total Homework Score:</i></b> | 301/300 |
 
-
-
-
-
-
-
-
-
-
 ___________
 
 <h2><p align="center"> VISUALS </p> </h2>
 
 <h4>Homework 1. </h4> This program calls four sorting algorithms (Selection, Insertion, Merge and Quick) firstly for 2500 randomly generated points between (-50,50), reads a file within the main project and creates points from the file, sorts & prints those points. The program provides the runtime in nanoseconds for each algorithm.
 
+
 ![ezgif com-video-to-gif-4](https://github.com/mccnick/COMS-228/assets/91184284/3ef76668-03c0-4715-ab7e-664b561c23fc)
+
+
+___________
+
+<h4>Homework 2. </h4> Summary
+
+
+___________
+
+
+<h4>Homework 3. </h4> Summary
+
