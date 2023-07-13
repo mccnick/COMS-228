@@ -9,12 +9,12 @@ In this repository are three large programming assignments in my Data Structures
 
 ___________
 
-| **Assignment** | **Description** | **PDF**|**Score** 
+| **Assignment** | **PDF** | **Description** |**Score** 
 | :-------------: | :-------------: | :-------------: | :-------------: |
-| HW1 | Comparing Four Sorting Algorithms | | 90/100 |
-| HW2 | Linked List (800+ lines of code) | | 100/100 |
-| HW3 | Archived File Tree Traversal | | 111/100 |
-| Total | Score | | 301/300 |
+| HW1 | x | Comparing Four Sorting Algorithms | 90/100 |
+| HW2 | x | Linked List (800+ lines of code) | 100/100 |
+| HW3 | x | Archived File Tree Traversal | 111/100 |
+|  | | Total Score | 301/300 |
 
 ___________
 
