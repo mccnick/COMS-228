@@ -6,6 +6,7 @@
 <p align="center">Data Structures and Algorithms course, using Java. I was required to implement three large projects.</p>
 <p align="center">-Nick</p>
 
+
 ___________
 
 | **Assignment** | **Java Code** | **Quick Description** |**Score** 
